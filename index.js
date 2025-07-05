@@ -4,9 +4,9 @@ const birthdayText = document.getElementById("birthdayText");
 const birthdayMusic = document.getElementById("birthdayMusic");
 
 const texts = [
-  "Chúc Cô tuổi mới full niềm vui, full máu, full thành công luôn 🥳🔥",
+  "Chúc Cô iem tuổi mới full niềm vui, full máu, full thành công luôn 🥳🔥",
   "Con đường học tập auto điểm cao, học bổng bay vào tay 😎✨",
-  "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho Cô chill tẹt ga 🎁🎉",
+  "Sinh nhật thì quẩy banh nóc, quà nhận không kịp đếm, deadline tự né ra cho Cô iem chill tẹt ga 🎁🎉",
 ];
 
 giftBox.addEventListener("click", () => {
